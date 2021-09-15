@@ -1,0 +1,5 @@
+Membaut baru
+
+- belajar react js
+- node js
+- mongo db
